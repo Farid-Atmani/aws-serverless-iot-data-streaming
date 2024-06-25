@@ -36,7 +36,8 @@ This project demonstrates a complete pipeline for collecting IMU data from a Ras
 - Amazon S3: The parsed data is uploaded by the lambda function to an S3 bucket for storage and further analysis.
 - CloudWatch: AWS IoT and Lambda logging are enabled
 
-![Serverless Architecture](Serverless_Architecture.png) 
+![Serverless_Architecture](https://github.com/Farid-Atmani/aws-serverless-iot-data-streaming/assets/69209770/f126154c-716b-487a-9c66-bbf1c618dd48)
+
 
 ## Prerequisites
 
